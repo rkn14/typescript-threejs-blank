@@ -1,5 +1,6 @@
 {
   "globalDependencies": {
-    "three": "registry:dt/three#0.83.0+20170217155006"
+    "three": "registry:dt/three#0.83.0+20170217155006",
+    "three/detector": "registry:dt/three/detector#0.0.0+20160405225030"
   }
 }
