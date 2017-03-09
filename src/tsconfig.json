@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "noImplicitAny": true,
+    "removeComments": true,
+    "preserveConstEnums": true,
+    "target": "es5",
+    "sourceMap": true
+  },
+  "include":[
+    "ts/**/*.ts"
+  ],
+  "exclude": [
+    "ts/references.ts"
+  ]
+}

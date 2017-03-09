@@ -1,0 +1,14 @@
+{
+  "name": "typescript-threejs-blank",
+  "description": "",
+  "main": "",
+  "authors": [
+    "Grégory Lardon <gregory.lardon@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "dependencies": {
+    "threejs": "*",
+    "threejs-stats": "*"
+  }
+}

@@ -1,1 +1,4 @@
-# typescript-threejs-blank
+simple blank gulp / typescript / threejs project
+
+npm install
+bower install
