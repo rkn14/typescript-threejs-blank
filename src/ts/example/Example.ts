@@ -78,7 +78,7 @@ module Example
         public animate()
         {
 
-            this._scene.getChildByName("cube").rotation.y += 2 * this._clock.getDelta();
+            this._scene.getObjectByName("cube").rotation.y += 2 * this._clock.getDelta();
 
             this._renderer.render(this._scene, this._camera);
 
