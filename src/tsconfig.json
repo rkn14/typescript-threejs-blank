@@ -3,7 +3,7 @@
     "noImplicitAny": true,
     "removeComments": true,
     "preserveConstEnums": true,
-    "target": "es5",
+    "target": "es6",
     "sourceMap": true,
     "outFile": "main.js"
   },
