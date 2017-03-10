@@ -1,6 +1,22 @@
 {
   "globalDependencies": {
     "three": "registry:dt/three#0.83.0+20170217155006",
+    "three-canvasrenderer": "registry:dt/three-canvasrenderer#0.0.0+20160916163606",
+    "three-copyshader": "registry:dt/three-copyshader#0.0.0+20160405225030",
+    "three-css3drenderer": "registry:dt/three-css3drenderer#0.0.0+20160405225030",
+    "three-editorcontrols": "registry:dt/three-editorcontrols#0.0.0+20160405225030",
+    "three-effectcomposer": "registry:dt/three-effectcomposer#0.0.0+20160405225030",
+    "three-firstpersoncontrols": "registry:dt/three-firstpersoncontrols#0.0.0+20160704010734",
+    "three-maskpass": "registry:dt/three-maskpass#0.0.0+20160405225030",
+    "three-orbitcontrols": "registry:dt/three-orbitcontrols#0.0.0+20160704010734",
+    "three-orthographictrackballcontrols": "registry:dt/three-orthographictrackballcontrols#0.0.0+20160405225030",
+    "three-projector": "registry:dt/three-projector#0.0.0+20160405225030",
+    "three-renderpass": "registry:dt/three-renderpass#0.0.0+20160405225030",
+    "three-shaderpass": "registry:dt/three-shaderpass#0.0.0+20160405225030",
+    "three-trackballcontrols": "registry:dt/three-trackballcontrols#0.0.0+20160730160925",
+    "three-transformcontrols": "registry:dt/three-transformcontrols#0.0.0+20160405225030",
+    "three-vrcontrols": "registry:dt/three-vrcontrols#0.0.0+20161028135557",
+    "three-vreffect": "registry:dt/three-vreffect#0.0.0+20161028135557",
     "three/detector": "registry:dt/three/detector#0.0.0+20160405225030"
   }
 }

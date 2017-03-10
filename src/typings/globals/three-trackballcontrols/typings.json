@@ -1,0 +1,8 @@
+{
+  "resolution": "main",
+  "tree": {
+    "src": "https://raw.githubusercontent.com/DefinitelyTyped/DefinitelyTyped/48418ab22725f8682113452219900485c37205ff/threejs/three-trackballcontrols.d.ts",
+    "raw": "registry:dt/three-trackballcontrols#0.0.0+20160730160925",
+    "typings": "https://raw.githubusercontent.com/DefinitelyTyped/DefinitelyTyped/48418ab22725f8682113452219900485c37205ff/threejs/three-trackballcontrols.d.ts"
+  }
+}

@@ -4,7 +4,8 @@
     "removeComments": true,
     "preserveConstEnums": true,
     "target": "es5",
-    "sourceMap": true
+    "sourceMap": true,
+    "outFile": "main.js"
   },
   "include":[
     "ts/**/*.ts"
